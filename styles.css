@@ -21,6 +21,9 @@ div {
 }
 
 @media (max-width: 600px) {
+    .title {
+        font-size: 2rem;
+    }
     div {
         max-width: 100%;
     }
